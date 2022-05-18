@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Estore:Web exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec8bc1d2-339a-42c5-8d25-f3c1e416aee5" name="Changes" comment="基本完成">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Estore_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9610f73b-4eaa-4b74-b169-eba1f3b73e76.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9610f73b-4eaa-4b74-b169-eba1f3b73e76/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9610f73b-4eaa-4b74-b169-eba1f3b73e76/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9610f73b-4eaa-4b74-b169-eba1f3b73e76/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9610f73b-4eaa-4b74-b169-eba1f3b73e76/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/tomcat 添加web应用包-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/tomcat 添加web应用包.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/web 项目打包-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/web 项目打包.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/web 项目路径.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/主页1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/主页2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/主页3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/主页4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/主页5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/主页6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/主页7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/主页8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/全局配置-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/全局配置-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/全局配置-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/数据库的配置.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/注册.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/添加 tomcat jar 包-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/添加 tomcat jar 包.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/添加图片的虚拟目录-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/添加图片的虚拟目录-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/添加图片的虚拟目录.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/登录.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/配置tomcat-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/配置tomcat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/配置简介-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/配置简介-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore-media/项目目录介绍.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estore.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/CategoryJS/jquery-3.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/CategoryJS/onloada.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/dao/NodeDateDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/dao/OrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/dao/ProductDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/dao/ProductDaoImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/domain/NodeDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/domain/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/domain/OrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/domain/PageBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/domain/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/exception/ActiveCodeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/exception/DataException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/exception/LoginException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/exception/RegistException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/exception/addOrderException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/service/NodeDateService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/service/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/service/ProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/utils/ActiveCodeUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/utils/CheckImgServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/utils/CookieUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/utils/DataSourceUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/utils/MailUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/utils/Md5Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/utils/Projectpath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/utils/UploadPic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/utils/UploadUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/filter/EncodingFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/filter/MyRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/AddOrderServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/AddProductToCartServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/CategoryServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/ChangeCountServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/FindCategoryServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/LinkageServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/LoginOutServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/ProductAddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/ProductDelByIdServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/ProductDelSelectServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/ProductFindAllServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/ProductFindByIdServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/ProductFindByPageCodeServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/ProductFindByPageServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/ProductSimpleServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/ProductUpdateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/RegistServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/RemoveProductFromCartServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/RemoveSelectProductFromCartServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/UserActiveServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/lib/commons-dbutils-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/lib/commons-io-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/lib/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/lib/mail.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/lib/mysql-connector-java-5.1.47.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/new_words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/addProduct.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/addProductToCartSuccessfull.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/error/activeuser_error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/error/registuser_error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/fastbuy.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/CSS/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/CSS/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/CSS/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/JS/bg-canvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/JS/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/JS/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/JS/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/JS/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/22d94f6e50d98f6f68308814ff9795e2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/260f712dc7bc066d147e305664ccd209.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/387064f7e285263ac3ef81dd09baf5e4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/40ff95a5685129d242841d69e86f45d5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/43a307471a19a9a0c54fa19a4328bf5e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/43fa848fa20b7568d825bfa1bf8826f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/4d98b5a1ad13dfdf6bf363a19dc88b2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/5b59d6d7503f921a1a5590a1999f9a3f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/62f38e9081afaf20535678571aaf6b3b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/8cbbaae5979d138dbc9e9616a06ba125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/96d31465c590e6a93094d6cf016f36e6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/9beed483ba60c3ba71e72ad1cdb6d653.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/9fb4c3da041a492d3853158c928da7ae.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/a26257f984753c787d177d74abaa7f04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/dd1c6b91990dee6177ad2ef4c1fb076e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/e557c50318135d0f705498c91ae62852.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/gou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/holiday_hero_subhead_2a_largetall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/iphone_square_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/macbookpro_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/tile_macos_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/order.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/order_success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/product.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/productInfo_admin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/productInfo_user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/regist_success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/showProducts.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/showcart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/dao/NodeDateDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/dao/OrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/dao/ProductDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/dao/ProductDaoImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/domain/NodeDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/domain/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/domain/OrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/domain/PageBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/domain/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/exception/ActiveCodeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/exception/DataException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/exception/LoginException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/exception/RegistException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/exception/addOrderException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/service/NodeDateService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/service/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/service/ProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/utils/ActiveCodeUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/utils/CheckImgServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/utils/CookieUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/utils/DataSourceUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/utils/MailUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/utils/Md5Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/utils/Projectpath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/utils/UploadPic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/utils/UploadUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/filter/EncodingFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/filter/MyRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/AddOrderServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/AddProductToCartServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/CategoryServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/ChangeCountServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/FindCategoryServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/LinkageServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/LoginOutServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/ProductAddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/ProductDelByIdServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/ProductDelSelectServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/ProductFindAllServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/ProductFindByIdServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/ProductFindByPageCodeServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/ProductFindByPageServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/ProductSimpleServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/ProductUpdateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/RegistServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/RemoveProductFromCartServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/RemoveSelectProductFromCartServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/UserActiveServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/dao/NodeDateDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/dao/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/dao/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/dao/ProductDaoImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/domain/NodeDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/domain/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/domain/PageBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/exception/ActiveCodeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/exception/DataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/exception/LoginException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/exception/RegistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/exception/addOrderException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/service/NodeDateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/utils/ActiveCodeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/utils/CheckImgServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/utils/CookieUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/utils/DataSourceUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/utils/MailUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/utils/Md5Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/utils/Projectpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/utils/UploadPic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/utils/UploadUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/filter/AutoLoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/filter/EncodingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/AddOrderServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/AddProductToCartServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/CategoryServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/ChangeCountServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/FindCategoryServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/LinkageServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/LoginOutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/ProductAddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/ProductDelByIdServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/ProductDelSelectServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/ProductFindAllServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/ProductFindByIdServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/ProductFindByPageCodeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/ProductFindByPageServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/ProductSimpleServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/ProductUpdateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/RegistServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/RemoveProductFromCartServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/RemoveSelectProductFromCartServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/UserActiveServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/yy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/CategoryJS/jquery-3.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/CategoryJS/onloada.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-dbutils-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-io-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mail.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.47.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/new_words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/addProduct.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/addProductToCartSuccessfull.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/error/activeuser_error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/error/registuser_error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fastbuy.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/CSS/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/CSS/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/CSS/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/JS/bg-canvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/JS/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/JS/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/JS/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/JS/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/22d94f6e50d98f6f68308814ff9795e2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/260f712dc7bc066d147e305664ccd209.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/387064f7e285263ac3ef81dd09baf5e4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/40ff95a5685129d242841d69e86f45d5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/43a307471a19a9a0c54fa19a4328bf5e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/43fa848fa20b7568d825bfa1bf8826f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/4d98b5a1ad13dfdf6bf363a19dc88b2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/5b59d6d7503f921a1a5590a1999f9a3f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/62f38e9081afaf20535678571aaf6b3b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/8cbbaae5979d138dbc9e9616a06ba125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/96d31465c590e6a93094d6cf016f36e6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/9beed483ba60c3ba71e72ad1cdb6d653.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/9fb4c3da041a492d3853158c928da7ae.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/a26257f984753c787d177d74abaa7f04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/dd1c6b91990dee6177ad2ef4c1fb076e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/e557c50318135d0f705498c91ae62852.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/gou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/holiday_hero_subhead_2a_largetall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/iphone_square_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/macbookpro_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/tile_macos_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/home/img/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/order.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/order_success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/productInfo_admin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/productInfo_user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/regist_success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/showProducts.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/showcart.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="29F6VM6lH7DcpggcuPbcd2lvAfB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/all_project/Estore/upload&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3402299&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.52" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.52" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Estore:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+        <file path="$PROJECT_DIR$/upload">
+          <settings>
+            <option name="CONTEXT_PATH" value="/upload" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="dcdb753e-2960-4227-a749-df1c4597cfd8" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="javadebug" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Estore:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec8bc1d2-339a-42c5-8d25-f3c1e416aee5" name="Changes" comment="" />
+      <created>1652696508572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652696508572</updated>
+      <workItem from="1652696510239" duration="1572000" />
+      <workItem from="1652698111656" duration="324000" />
+      <workItem from="1652840501118" duration="771000" />
+      <workItem from="1652841294056" duration="556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基本完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="基本完成" />
+  </component>
+</project>
