@@ -29,7 +29,7 @@ public class MailUtils {
         //2.通过session获取Transport对象（发送邮件的核心API）
         Transport ts=session.getTransport();
         //3.通过邮件用户名密码（授权码 ）链接
-        ts.connect("17780713604@163.com", "hslzym1314");
+        ts.connect("18622412361@163.com", "XXXXXX");
 
         //4.创建邮件
         Message msg=createSimpleMail(session,email,emailInfo);
