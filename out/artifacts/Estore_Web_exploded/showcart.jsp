@@ -122,7 +122,7 @@ function changeCount(id, count, pnum) {
 		location.href="order.jsp";
 	}
 	function tocart() {
-		location.href="http://localhost:8080/Estore/showcart.jsp";
+		location.href="http://localhost:8080/showcart.jsp";
 	}
 	function phone(obj) {
 		location.href="${pageContext.request.contextPath}/FindCategoryServlet?name="+encodeURIComponent(encodeURIComponent(obj));
@@ -219,8 +219,11 @@ function changeCount(id, count, pnum) {
                     <div class="captcha input-wrapper" data-type="en">
                         <input id="captcha-1" name="captcha" placeholder="验证码" required="" data-rule-required="true"
                                data-msg-required="请填写验证码">
+<%--                        <img class="captcha-img" data-toggle="tooltip" data-placement="top" title="看不清楚？换一张"--%>
+<%--                             alt="验证码" src="${pageContext.request.contextPath}/checkImg" id="cimg" onclick="change()">--%>
                         <img class="captcha-img" data-toggle="tooltip" data-placement="top" title="看不清楚？换一张"
-                             alt="验证码" src="${pageContext.request.contextPath}/checkImg" id="cimg" onclick="change()">
+                             alt="验证码" src="${pageContext.request.contextPath}/checkImg"  onclick="change()">
+
                         <span id="checkcode_message"></span>
                     </div>
                 </div>
@@ -348,11 +351,7 @@ function changeCount(id, count, pnum) {
    <div>
        <ul>
            <li>开发人员1</li>
-           <li>唐宗博</li>
-       </ul>
-       <ul>
-           <li>开发人员2</li>
-           <li>辜鹏</li>
+           <li>oxidaner</li>
        </ul>
     </div>
 </footer>

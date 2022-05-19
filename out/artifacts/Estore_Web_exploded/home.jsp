@@ -22,13 +22,13 @@ function change() {
 };
 
 function findProductById(id){
-	location.href="http://localhost:8080/Estore/ProductFindByIdServlet?id="+id;
+	location.href="http://localhost:8080/ProductFindByIdServlet?id="+id;
 };
 function phone(obj) {
 	location.href="${pageContext.request.contextPath}/FindCategoryServlet?name="+encodeURIComponent(encodeURIComponent(obj));
 }
 function tocart() {
-	location.href="http://localhost:8080/Estore/showcart.jsp";
+	location.href="http://localhost:8080/showcart.jsp";
 }
 </script>
 </head>
@@ -158,7 +158,7 @@ function tocart() {
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
         <div class="item active">
-            <img src="home/img/22d94f6e50d98f6f68308814ff9795e2.jpg" alt="..." onclick="phone('手机')">
+            <img src="home/img/a00e7c9d053444dc2999b300cac8a05.png" alt="..." onclick="phone('手机')">
             <div class="carousel-caption">
 
             </div>

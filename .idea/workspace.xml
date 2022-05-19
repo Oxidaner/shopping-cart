@@ -11,7 +11,39 @@
   <component name="ChangeListManager">
     <list default="true" id="ec8bc1d2-339a-42c5-8d25-f3c1e416aee5" name="Changes" comment="基本完成">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/utils/MailUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/utils/MailUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/utils/UploadPic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/utils/UploadPic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/AddProductToCartServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/AddProductToCartServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/WEB-INF/classes/cn/nsu/edu/estore/web/servlet/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/fastbuy.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/fastbuy.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/8cbbaae5979d138dbc9e9616a06ba125.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/home/img/8cbbaae5979d138dbc9e9616a06ba125.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/productInfo_admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/productInfo_admin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/showcart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Estore_Web_exploded/showcart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/utils/MailUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/utils/MailUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/utils/UploadPic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/utils/UploadPic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/AddProductToCartServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/AddProductToCartServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Estore/cn/nsu/edu/estore/web/servlet/LoginServlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/nsu/edu/estore/utils/MailUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/utils/MailUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/nsu/edu/estore/utils/UploadPic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/utils/UploadPic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/AddProductToCartServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/AddProductToCartServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/ProductAddServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/nsu/edu/estore/web/servlet/ProductAddServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/26.png" beforeDir="false" afterPath="$PROJECT_DIR$/upload/26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/27.png" beforeDir="false" afterPath="$PROJECT_DIR$/upload/27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/home/img/22d94f6e50d98f6f68308814ff9795e2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/home/img/387064f7e285263ac3ef81dd09baf5e4.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/home/img/387064f7e285263ac3ef81dd09baf5e4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/home/img/62f38e9081afaf20535678571aaf6b3b.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/home/img/62f38e9081afaf20535678571aaf6b3b.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/home/img/8cbbaae5979d138dbc9e9616a06ba125.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/home/img/8cbbaae5979d138dbc9e9616a06ba125.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/home/img/9fb4c3da041a492d3853158c928da7ae.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/home/img/9fb4c3da041a492d3853158c928da7ae.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/home/img/dd1c6b91990dee6177ad2ef4c1fb076e.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/home/img/dd1c6b91990dee6177ad2ef4c1fb076e.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/productInfo_admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/productInfo_admin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/showcart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/showcart.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +80,8 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.3402299&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.3402299&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;DatabaseDriversLRU&quot;: [
@@ -162,7 +195,11 @@
       <workItem from="1652696510239" duration="1572000" />
       <workItem from="1652698111656" duration="324000" />
       <workItem from="1652840501118" duration="771000" />
-      <workItem from="1652841294056" duration="1128000" />
+      <workItem from="1652841294056" duration="5683000" />
+      <workItem from="1652875495730" duration="25000" />
+      <workItem from="1652875535526" duration="37000" />
+      <workItem from="1652876069751" duration="99000" />
+      <workItem from="1652946036742" duration="2795000" />
     </task>
     <task id="LOCAL-00001" summary="基本完成">
       <created>1652842093072</created>
@@ -171,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652842093072</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="基本完成">
+      <created>1652842465792</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652842465793</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

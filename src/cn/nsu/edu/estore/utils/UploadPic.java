@@ -16,7 +16,7 @@ import com.sun.image.codec.jpeg.JPEGImageEncoder;
 
 public class UploadPic {
 
-    private static String path = "c:\\upload";
+    private static String path = "D:\\upload";
 
     //上传图片
     public static void savePic(FileItem item, String filename) throws IOException {

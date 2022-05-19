@@ -122,7 +122,7 @@ function changeCount(id, count, pnum) {
 		location.href="order.jsp";
 	}
 	function tocart() {
-		location.href="http://localhost:8080/Estore/showcart.jsp";
+		location.href="http://localhost:8080/showcart.jsp";
 	}
 	function phone(obj) {
 		location.href="${pageContext.request.contextPath}/FindCategoryServlet?name="+encodeURIComponent(encodeURIComponent(obj));
@@ -351,11 +351,7 @@ function changeCount(id, count, pnum) {
    <div>
        <ul>
            <li>开发人员1</li>
-           <li>唐宗博</li>
-       </ul>
-       <ul>
-           <li>开发人员2</li>
-           <li>辜鹏</li>
+           <li>oxidaner</li>
        </ul>
     </div>
 </footer>

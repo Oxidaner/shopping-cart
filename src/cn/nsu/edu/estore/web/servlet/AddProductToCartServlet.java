@@ -45,8 +45,7 @@ public class AddProductToCartServlet extends HttpServlet {
             // 3.将商品添加到购物车
             HttpSession session = request.getSession();
             // 从session中获取购物车
-            Map<Product, Integer> cart = (Map<Product, Integer>) session
-                    .getAttribute("cart");
+            Map<Product, Integer> cart = (Map<Product, Integer>) session.getAttribute("cart");
             // 如果cart为null,说明，没有购物车，是第一次购物
             if (cart == null) {
                 // 创建出购物车

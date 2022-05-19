@@ -40,7 +40,7 @@ public class MailUtils {
     private static Message createSimpleMail(Session session, String email, String emailInfo) throws AddressException, MessagingException {
         MimeMessage mm=new MimeMessage(session);
         //设置发件人
-        mm.setFrom(new InternetAddress("17780713604@163.com"));
+        mm.setFrom(new InternetAddress("18622412361@163.com"));
         //设置收件人
         mm.setRecipient(Message.RecipientType.TO, new InternetAddress(email));
         mm.setSubject("测试邮件");

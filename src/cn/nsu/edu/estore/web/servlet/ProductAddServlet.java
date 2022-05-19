@@ -17,6 +17,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.Part;
 
+import cn.nsu.edu.estore.utils.UploadPic;
 import org.apache.commons.beanutils.BeanUtils;
 import org.apache.commons.fileupload.FileItem;
 import org.apache.commons.fileupload.FileUploadException;
@@ -24,10 +25,8 @@ import org.apache.commons.fileupload.disk.DiskFileItemFactory;
 import org.apache.commons.fileupload.servlet.ServletFileUpload;
 
 import cn.nsu.edu.estore.domain.Product;
-import cn.nsu.edu.estore.exception.RegistException;
 import cn.nsu.edu.estore.service.ProductService;
-import cn.nsu.edu.estore.utils.Projectpath;
-import cn.nsu.edu.estore.utils.UploadPic;
+
 
 /**
  * Servlet implementation class Text

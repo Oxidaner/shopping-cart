@@ -18,13 +18,13 @@ function change() {
 			+ new Date().getTime();
 }
 function findProductById(id){
-	location.href="http://localhost:8080/Estore/ProductFindByIdServlet?id="+id;
+	location.href="http://localhost:8080/ProductFindByIdServlet?id="+id;
 }
 function showck(obj) {
-	location.href="http://localhost:8080/Estore/ProductFindByPageCodeServlet?code="+obj;
+	location.href="http://localhost:8080/ProductFindByPageCodeServlet?code="+obj;
 }
 function tocart() {
-	location.href="http://localhost:8080/Estore/showcart.jsp";
+	location.href="http://localhost:8080/showcart.jsp";
 }
 </script>
 </head>
@@ -174,7 +174,7 @@ function tocart() {
 <aside class="aside-tool">
     <ul>
         <li class="customer">
-            <a href="http://wpa.qq.com/msgrd?v=3&uin=476759153&site=qq&menu=yes" target=_blank
+            <a href="http://wpa.qq.com/msgrd?v=3&uin=1963466570&site=qq&menu=yes" target=_blank
                clickid=guanwang_navigation_customer>联系客服</a>
         </li>
         <li class="top"></li>
@@ -184,11 +184,7 @@ function tocart() {
    <div>
        <ul>
            <li>开发人员1</li>
-           <li>唐宗博</li>
-       </ul>
-       <ul>
-           <li>开发人员2</li>
-           <li>辜鹏</li>
+           <li>oxidaner</li>
        </ul>
     </div>
 </footer>
